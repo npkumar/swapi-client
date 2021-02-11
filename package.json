@@ -1,0 +1,64 @@
+{
+  "name": "swapi-client",
+  "version": "0.2.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "^4.4.0",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.3",
+    "@testing-library/user-event": "^12.6.2",
+    "@types/jest": "^26.0.20",
+    "@types/node": "^14.14.22",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "add": "^2.0.6",
+    "antd": "^4.11.2",
+    "bootstrap": "^4.3.1",
+    "classnames": "^2.2.6",
+    "json-client": "^0.9.3",
+    "react": "^17.0.1",
+    "react-dom": "^16.9.0",
+    "react-redux": "^7.2.2",
+    "react-router-dom": "^5.2.0",
+    "redux": "^4.0.5",
+    "redux-saga": "^1.1.3",
+    "sentence-case": "^2.1.1",
+    "styled-components": "^5.2.1",
+    "typescript": "^4.1.3",
+    "yarn": "^1.22.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom --detectOpenHandles",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "@types/react-redux": "^7.1.16",
+    "@types/react-router-dom": "^5.1.7",
+    "@types/styled-components": "^5.1.7",
+    "@typescript-eslint/eslint-plugin": "^4.14.2",
+    "@typescript-eslint/parser": "^4.14.2",
+    "eslint": "^7.19.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-babel": "^5.3.0",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "prettier": "^2.2.1",
+    "react-scripts": "^4.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
